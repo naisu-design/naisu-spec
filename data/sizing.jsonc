@@ -1,0 +1,34 @@
+// #TODO consider renaming to `sizing_scale`
+// #TODO add 'usages' as labels
+// @Warning under construction
+[
+  {
+    "name": "0",
+    "value": 0
+  },
+  {
+    // Icon
+    "name": "#TODO",
+    "value": "24"
+  },
+  {
+    // Button, Avatar
+    "name": "#TODO",
+    "value": 40
+  },
+  {
+    // One-line list item
+    "name": "#TODO",
+    "value": 56
+  },
+  {
+    // Two-line list item
+    "name": "#TODO",
+    "value": 72
+  },
+  {
+    // Three-line list item
+    "name": "#TODO",
+    "value": 88
+  }
+]

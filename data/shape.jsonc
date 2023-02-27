@@ -1,0 +1,31 @@
+// https://m3.material.io/styles/shape/shape-scale-tokens
+[
+  {
+    "name": "none",
+    "value": 0
+  },
+  {
+    "name": "extra-small",
+    "value": 4
+  },
+  {
+    "name": "small",
+    "value": 8
+  },
+  {
+    "name": "medium",
+    "value": 12
+  },
+  {
+    "name": "large",
+    "value": 16
+  },
+  {
+    "name": "extra-large",
+    "value": 28
+  },
+  {
+    "name": "full",
+    "value": 9999
+  }
+]

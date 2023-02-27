@@ -1,0 +1,78 @@
+// https://m3.material.io/styles/motion/easing-and-duration/tokens-specs
+[
+  {
+    "name": "short1",
+    "value": 50
+  },
+  {
+    "name": "short2",
+    "value": 100
+  },
+  {
+    "name": "short3",
+    "value": 150
+  },
+  {
+    "name": "short4",
+    "value": 200
+  },
+  // default short
+  {
+    "name": "short",
+    "value": 200
+  },
+  {
+    "name": "medium1",
+    "value": 250
+  },
+  {
+    "name": "medium2",
+    "value": 300
+  },
+  {
+    "name": "medium3",
+    "value": 350
+  },
+  {
+    "name": "medium4",
+    "value": 400
+  },
+  {
+    "name": "long1",
+    "value": 450
+  },
+  {
+    "name": "long2",
+    "alt": "long",
+    "value": 500
+  },
+  // default long
+  {
+    "name": "long",
+    "value": 500
+  },
+  {
+    "name": "long3",
+    "value": 550
+  },
+  {
+    "name": "long4",
+    "value": 600
+  },
+  {
+    "name": "extra-long1",
+    "value": 700
+  },
+  {
+    "name": "extra-long2",
+    "value": 800
+  },
+  {
+    "name": "extra-long3",
+    "value": 900
+  },
+  {
+    "name": "extra-long4",
+    "value": 1000
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "0",
+    "value": 0.0
+  },
+  {
+    "name": "disabled",
+    "value": 0.12
+  },
+  {
+    "name": "disabled-2",
+    "value": 0.38
+  },
+  {
+    "name": "50",
+    "value": 0.5
+  },
+  {
+    "name": "75",
+    "value": 0.75
+  },
+  {
+    "name": "100",
+    "value": 1.0
+  }
+]

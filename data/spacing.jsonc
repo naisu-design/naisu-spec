@@ -1,0 +1,58 @@
+// #TODO (give multiple names?)
+// #TODO try to avoid the 'fractional' names.
+// https://tailwindcss.com/docs/customizing-spacing#default-spacing-scale
+[
+  {
+    "name": "0",
+    "value": 0
+  },
+  {
+    "name": "px",
+    "value": 1
+  },
+  //   {
+  //     "name": "0.5",
+  //     "value": 2
+  //   },
+  {
+    "name": "1",
+    "value": 4
+  },
+  //   {
+  //     "name": "1.5",
+  //     "value": 6
+  //   },
+  {
+    "name": "2",
+    "value": 8
+  },
+  //   {
+  //     "name": "2.5",
+  //     "value": 10
+  //   },
+  {
+    "name": "3",
+    "value": 12
+  },
+  {
+    "name": "4",
+    "value": 16
+  },
+  {
+    "name": "5",
+    "value": 20
+  },
+  {
+    "name": "6",
+    "value": 24
+  },
+  {
+    "name": "7",
+    "value": 28
+  },
+  {
+    "name": "8",
+    "value": 32
+  }
+  // #TODO add more levels
+]
