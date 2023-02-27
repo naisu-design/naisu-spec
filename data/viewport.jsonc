@@ -1,16 +1,18 @@
 // - [m3 breakpoints](https://m3.material.io/foundations/adaptive-design/large-screens/overview)
 // - [m2 breakpoints](https://material.io/design/layout/responsive-layout-grid.html#breakpoints)
 [
-  {
-    "name": "extra-small",
-    "short": "xs",
-    "device": "watch"
-  },
+//   {
+//     "name": "extra-small",
+//     "short": "xs",
+//     "device": "watch"
+//   },
   {
     "name": "small",
     "short": "sm",
-    "device": "handset-portrait",
-    "max-width": 599,
+    "alias": "compact",
+    "device": "handset-portrait, watch",
+    "min-width": 0,
+    "max-width": 600,
     "grid-columns": 4,
     "margin": 8
   },
@@ -19,36 +21,40 @@
     "short": "md",
     "device": "tablet-portrait, foldable-portrait-unfolded",
     "min-width": 600,
+    "max-width": 840,
     "grid-columns": 12,
     "margin": 12
   },
   {
-    "name": "expanded",
-    "short": "ex",
-    "device": "handset-landscape, tablet-landscape, foldable-landscape-unfolded",
-    "min-width": 840,
-    "grid-columns": 12,
-    "margin": 32
-  },
-  {
     "name": "large",
     "short": "lg",
-    "device": "laptop",
-    "min-width": 1240,
+    "alias": "expanded",
+    "device": "handset-landscape, tablet-landscape, foldable-landscape-unfolded",
+    "min-width": 840,
+    "max-width": 1240,
     "grid-columns": 12,
     "margin": 32
   },
   {
     "name": "extra-large",
     "short": "xl",
-    "device": "desktop",
-    "min-width": 1440,
+    "device": "laptop, desktop",
+    "min-width": 1240,
+    "max-width": 1440,
     "grid-columns": 12,
     "margin": 32
   },
   {
-    "name": "jumbo",
-    "short": "ju",
-    "device": "tv"
+    "name": "extra-extra-large",
+    "short": "xxl",
+    "device": "desktop, tv",
+    "min-width": 1440,
+    "grid-columns": 12,
+    "margin": 32
   }
+//   {
+//     "name": "jumbo",
+//     "short": "ju",
+//     "device": "tv"
+//   }
 ]
