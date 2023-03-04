@@ -7,10 +7,10 @@ The specification of the Naisu Design System. CSS and other files are programmat
 Naisu is strongly inspired by the following design systems:
 
 - [Material Design](https://m3.material.io/)
+- [Tailwind CSS](https://tailwindcss.com)
 - [Carbon Design System](https://carbondesignsystem.com/)
 - [Adwaita](https://developer.gnome.org/hig/)
 - [Apple Design](https://developer.apple.com/design/human-interface-guidelines/guidelines/overview)
-- [Tailwind CSS](https://tailwindcss.com)
 
 ## Status
 
