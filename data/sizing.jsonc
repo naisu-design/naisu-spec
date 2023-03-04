@@ -17,9 +17,19 @@
     "value": 40
   },
   {
+    // Tab text-only
+    "name": "#TODO",
+    "value": 48
+  },
+  {
     // One-line list item
     "name": "#TODO",
     "value": 56
+  },
+  {
+    // Tab text+icon
+    "name": "#TODO",
+    "value": 64
   },
   {
     // Two-line list item
