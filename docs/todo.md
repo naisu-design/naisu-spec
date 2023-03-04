@@ -1,3 +1,0 @@
-# TODO
-
-- [ ] *.jsonc -> *.json?
