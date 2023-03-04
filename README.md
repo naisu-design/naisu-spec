@@ -1,4 +1,4 @@
-# Naisu Spec
+# Naisu Specification
 
 The specification of the Naisu Design System. CSS and other files are programmatically generated from the spec files.
 
