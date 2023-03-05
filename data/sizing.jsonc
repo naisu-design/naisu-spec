@@ -1,44 +1,56 @@
+// Used tailwindcss names
 // #TODO consider renaming to `sizing_scale`
 // #TODO add 'usages' as labels
-// @Warning under construction
 [
   {
     "name": "0",
     "value": 0
   },
   {
+    "name": "4",
+    "value": 16
+  },
+  {
     // Icon
-    "name": "#TODO",
-    "value": "24"
+    "name": "6",
+    "value": 24
+  },
+  {
+    "name": "8",
+    "value": 32
   },
   {
     // Button, Avatar
-    "name": "#TODO",
+    "name": "10",
     "value": 40
   },
   {
     // Tab text-only
-    "name": "#TODO",
+    "name": "12",
     "value": 48
   },
   {
     // One-line list item
-    "name": "#TODO",
+    "name": "14",
     "value": 56
   },
   {
     // Tab text+icon
-    "name": "#TODO",
+    "name": "16",
     "value": 64
   },
   {
     // Two-line list item
-    "name": "#TODO",
+    "name": "18",
     "value": 72
   },
   {
     // Three-line list item
-    "name": "#TODO",
+    "name": "22",
     "value": 88
+  },
+  {
+    "name": "24",
+    "value": 96
   }
 ]
