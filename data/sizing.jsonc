@@ -7,6 +7,14 @@
     "value": 0
   },
   {
+    "name": "px",
+    "value": 1
+  },
+  {
+    "name": "0.5",
+    "value": 2
+  },
+  {
     "name": "4",
     "value": 16
   },
